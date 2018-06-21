@@ -16,19 +16,7 @@
     
     }
     
-    .row {
-        display: flex;
-        flex-direction: row-reverse;
-        height: 100%
-    }
     
-    p {
-        color: black;
-        font-size: 18px;
-        font-family: Helvetica;
-    }
     
-    .image > img {
-        border: 6px black;
-        margin-right: 20px;
-    }
+  
+    
