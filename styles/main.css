@@ -1,0 +1,169 @@
+
+
+
+#pageHeader {
+	background-image: url(../images/shadyt.jpg);
+	background-repeat: no-repeat;
+	height: 263px;
+    color: rgb(78, 78, 78);
+    position: relative;
+	width: 75%;
+	margin: 0 auto;
+	text-align: left;
+    background-color: #1F0802;
+    
+}
+
+#pageHeader h2{
+	
+    font-family: avenir;
+    padding-left: 10px;	
+    color: #1F0802;
+    margin-bottom: -15px;
+    
+    }
+
+p1{
+	
+    font-family: avenir, Arial, Helvetica, sans-serif;
+    padding-left: 10px;	
+    color: #1F0802;
+    font-size: 17px;
+    
+
+    }    
+
+
+
+#container{
+	
+}
+
+/* header */
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.row {
+    margin: 0 auto;
+
+}
+
+header {
+    background: #1F0802;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+
+
+/* global nav bar */
+
+nav {
+    float: right;
+    width: 80%;
+    
+}
+
+nav ul {
+    list-style: none;
+    
+}
+
+nav li {
+
+    display: inline-block;
+    margin-left: 15px;
+    padding-top: 40px;
+    padding-right: 170px;
+    padding-bottom: 50px
+    
+}
+
+nav a {
+    color: #797979;
+    text-decoration: none;
+
+}
+
+a:hover { 
+    color: white;
+}
+
+
+h3{
+    color: #A17548;
+    
+}
+
+
+/* footer css */
+
+footer {
+    background-color: #A17548;
+    text-align: center;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    color: #000000;
+    margin: 0;
+    padding: 5px 0 5px;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+}
+
+/* blog css */
+
+section {
+    background-color: #1F0802;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+    
+}
+
+.cultural {
+    text-align: center;
+    padding-top: 10px;
+    color: #A17548;
+    
+}
+
+.technical {
+    text-align: center;
+    padding-top: 10px;
+    color: #A17548;
+}
+
+section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    padding-bottom: 400px;
+   
+}
+ section a {
+    color: white;
+    text-decoration: none;
+    
+ }
+
+
+/* actual blogs */
+
+ .blog {
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+ }
+
+ /* about page */
+
+ .gif {
+     padding: 245px;
+ }
