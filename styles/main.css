@@ -15,7 +15,7 @@
 
 #pageHeader h2{
 	
-    font-family: avenir;
+    font-family: avenir, Arial, Helvetica, sans-serif;
     padding-left: 10px;	
     color: #1F0802;
     margin-bottom: -15px;
@@ -59,7 +59,7 @@ p3  {
 
 }
 
-/* global nav bar */
+/* nav bar */
 
 nav {
     float: right;
@@ -166,7 +166,7 @@ section ul {
    
 }
  section a {
-    color: rgb(230, 230, 230);
+    color: rgb(241, 241, 241);
     text-decoration: none;
     
     
@@ -184,8 +184,4 @@ section ul {
     text-align: center;
  }
 
- /* about */
-
- .gif {
-     padding: 245px;
- }
+ 
