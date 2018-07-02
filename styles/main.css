@@ -1,6 +1,5 @@
 
 
-
 #pageHeader {
 	background-image: url(../images/shadyt.jpg);
 	background-repeat: no-repeat;
@@ -23,21 +22,15 @@
     
     }
 
-p1{
+p1  {
 	
     font-family: avenir, Arial, Helvetica, sans-serif;
     padding-left: 10px;	
     color: #1F0802;
     font-size: 17px;
     
-
     }    
 
-
-
-#container{
-	
-}
 
 /* header */
 
@@ -103,7 +96,7 @@ h3{
 }
 
 
-/* footer css */
+/* footer */
 
 footer {
     background-color: #A17548;
@@ -118,7 +111,7 @@ footer {
     font-family: avenir, Arial, Helvetica, sans-serif;
 }
 
-/* blog css */
+/* blog */
 
 section {
     background-color: #1F0802;
@@ -139,6 +132,12 @@ section {
     color: #A17548;
 }
 
+.projects   {
+    text-align: center;
+    padding-top: 10px;
+    color: #A17548;
+}
+
 section ul {
     margin: 0;
     padding: 0;
@@ -151,6 +150,11 @@ section ul {
     color: white;
     text-decoration: none;
     
+ }
+
+ p2 {
+    color: white;
+    text-decoration: none;
  }
 
 
