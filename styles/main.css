@@ -34,11 +34,12 @@ p1  {
 
 body {
     background-color: rgb(0, 0, 0);
+    
 }
 
 .row {
     margin: 0 auto;
-
+    
 }
 
 header {
@@ -50,9 +51,13 @@ header::after {
     content: '';
     display: table;
     clear: both;
+    
 }
 
+p3  {
+    color: #A17548
 
+}
 
 /* global nav bar */
 
@@ -105,12 +110,13 @@ footer {
     background-color: #A17548;
     text-align: center;
     font-family: avenir, Arial, Helvetica, sans-serif;
+    
 }
 
 .footer {
     color: #000000;
     margin: 0;
-    padding: 5px 0 5px;
+    padding: 15px 0 15px;
     font-family: avenir, Arial, Helvetica, sans-serif;
 }
 
@@ -119,7 +125,7 @@ footer {
 section {
     background-color: #1F0802;
     font-family: avenir, Arial, Helvetica, sans-serif;
-    
+   
 }
 
 .cultural {
@@ -171,8 +177,6 @@ section ul {
     text-decoration: none;
  }
 
-
-/* actual blogs */
 
  .blog {
     color: white;
