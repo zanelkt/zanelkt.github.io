@@ -95,6 +95,11 @@ h3{
     
 }
 
+h5{
+    color: #797979;
+    
+}
+
 
 /* footer */
 
@@ -136,6 +141,22 @@ section {
     text-align: center;
     padding-top: 10px;
     color: #A17548;
+}
+
+.reflection {
+    text-align: left;
+    padding-top: 0px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: rgb(219, 219, 219);
+
+}
+
+.homelink {
+    background-color: #1F0802;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+    color: #797979;
+    
 }
 
 section ul {
