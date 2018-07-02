@@ -152,7 +152,7 @@ section {
     padding-top: 0px;
     padding-left: 40px;
     padding-right: 40px;
-    color: rgb(255, 255, 255);
+    color: #797979;
 
 }
 
@@ -162,11 +162,11 @@ section ul {
     padding: 0;
     list-style: none;
     text-align: center;
-    padding-bottom: 400px;
+    padding-bottom: 450px;
    
 }
  section a {
-    color: white;
+    color: rgb(230, 230, 230);
     text-decoration: none;
     
     
